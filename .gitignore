@@ -1,8 +1,12 @@
 */node_modules
-*/sk.txt
-*/sk*.txt
-*/sk*.json
-*/package-lock.json
+**/.env
+**/sk.txt
+**/env.py
+**/sk*.txt
+**/sk*.json
+**/__pycache__
+**/Uniswap
+**/package-lock.json
 # dependencies
 /node_modules
 /.pnp
@@ -14,9 +18,11 @@
 **/*.bytecode.js
 **/*.abi.js
 **/*.address.js
-*/yarn.lock
-*/artifacts
-*/cache
+**/yarn.lock
+**/artifacts
+**/cache
+**/debug
+**/target
 
 # testing
 coverage
@@ -26,7 +32,7 @@ build
 
 # misc
 .DS_Store
-.env*
+.env
 
 # debug
 npm-debug.log*
@@ -35,3 +41,4 @@ yarn-error.log*
 
 .idea
 .vscode
+mnemonic.txt

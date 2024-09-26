@@ -1,0 +1,21 @@
+{
+  "name": "05-ethersjs-erc20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.11.1",
+    "ganache-cli": "^6.12.2",
+    "minimist": "^1.2.8",
+    "solc": "^0.8.0",
+    "web3": "^4.6.0"
+  }
+}

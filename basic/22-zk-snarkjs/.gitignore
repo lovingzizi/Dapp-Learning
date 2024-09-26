@@ -1,0 +1,17 @@
+
+# these files are outputs by circom compile
+circuit_cpp/
+circuit_js/
+circuit.circom
+circuit.r1cs
+circuit.sym
+circuit.json
+powersOfTau28_hez_final_10.ptau
+circuit_0000.zkey
+
+input.json
+witness.wtns
+witness.json
+proof.json
+proving_key.json
+*//multiplier2_cpp/
